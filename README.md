@@ -3,7 +3,7 @@ It is an application of Arduino.I use an Arduino uno,a HC-SR04(Ultrasonic Rangin
 
 This is Arduino:
 
-![github](https://github.com/fanduo12138/ultrasonic_ranging/blob/master/picture/Arduino.png "github")  12138
+![github](https://github.com/fanduo12138/ultrasonic_ranging/blob/master/picture/Arduino.png "github")  
 
 This is HC-SR04:
 
